@@ -12,7 +12,7 @@ Open source repository for source code for "Kinetics of blood cell differentiati
 
 ### Instructions for Use - HeatMap Analysis (MATLAB)
 - Ensure you have downloaded all MATLAB files from [this](https://github.com/Tanentzapf-Lab/LiveImaging_HematopiesisKinetics_Infection_Ho_Carr/) repository. This includes 'rangeSelect.m', 'rotateImage.m', 'runHeatMap.m' and 'buildHeatMap.m'.
-- A figure documenting the process is available as Supplemental Figure 1.
+- A figure documenting the process is available in the paper.
 - Images for analysis must be in '.tif' format and stored within the same folder, and we recommend marking any landmark structures on the images directly prior to analysis to ensure consistent orientation.
 #### runHeatMap
 - Open MATLAB, ensure all files are in the workspace, and run 'runHeatMap.m'. 
